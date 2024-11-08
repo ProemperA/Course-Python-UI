@@ -1,6 +1,6 @@
 #NICHT AUF RUN!!! Im terminal eingeben: streamlit run app.py
 import streamlit as st
-import request
+import requests
  
 API_URL = 'https://course-python-api-vmcg.onrender.com/items'
  
